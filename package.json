@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTCK-reina/wabun-lang.git"
+    "url": "git+https://github.com/RTCK-DEV/wabun-lang.git"
   },
   "bugs": {
-    "url": "https://github.com/RTCK-reina/wabun-lang/issues"
+    "url": "https://github.com/RTCK-DEV/wabun-lang/issues"
   },
-  "homepage": "https://rtck-reina.github.io/wabun-lang/",
+  "homepage": "https://rtck-dev.github.io/wabun-lang/",
   "engines": {
     "node": ">=18"
   },

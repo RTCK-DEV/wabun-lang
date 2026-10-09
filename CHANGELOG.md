@@ -6,7 +6,7 @@
 
 ### 案内書き
 - README.md / 読本.md に npm よりの揃へ方を追加（`npm install -g wabun-lang` および `npx wabun-lang`）
-- 公開閲覧場 https://rtck-reina.github.io/wabun-lang/ への案内を追加。揃へずとも閲覧器の上にて試せる
+- 公開閲覧場 https://rtck-dev.github.io/wabun-lang/ への案内を追加。揃へずとも閲覧器の上にて試せる
 - `dist/wabun.bundle.js` が `src/` からの生成物である旨と、`npm run build` の後に commit すべき旨を明記
 - npm / CI / Pages / License の徽章を追加
 - `git clone <この所在>` のままだった箇所を実際の所在に置換

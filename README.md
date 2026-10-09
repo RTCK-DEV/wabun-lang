@@ -1,13 +1,13 @@
 # 和文 (wabun-lang)
 
 [![npm version](https://img.shields.io/npm/v/wabun-lang.svg)](https://www.npmjs.com/package/wabun-lang)
-[![CI](https://github.com/RTCK-reina/wabun-lang/actions/workflows/ci.yml/badge.svg)](https://github.com/RTCK-reina/wabun-lang/actions/workflows/ci.yml)
-[![Pages](https://github.com/RTCK-reina/wabun-lang/actions/workflows/pages.yml/badge.svg)](https://github.com/RTCK-reina/wabun-lang/actions/workflows/pages.yml)
+[![CI](https://github.com/RTCK-DEV/wabun-lang/actions/workflows/ci.yml/badge.svg)](https://github.com/RTCK-DEV/wabun-lang/actions/workflows/ci.yml)
+[![Pages](https://github.com/RTCK-DEV/wabun-lang/actions/workflows/pages.yml/badge.svg)](https://github.com/RTCK-DEV/wabun-lang/actions/workflows/pages.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > 古典日本語の文法でプログラミングする。
 >
-> ブラウザで今すぐ試す（揃へ方不要）: https://rtck-reina.github.io/wabun-lang/
+> ブラウザで今すぐ試す（揃へ方不要）: https://rtck-dev.github.io/wabun-lang/
 >
 > 完全和文（文語調）版の案内は [読本.md](読本.md) を見よ。
 
@@ -75,7 +75,7 @@ npx wabun-lang run hello.wb
 ソースから:
 
 ```bash
-git clone https://github.com/RTCK-reina/wabun-lang.git
+git clone https://github.com/RTCK-DEV/wabun-lang.git
 cd wabun-lang
 # Node.js 18+ を要す。依存ライブラリは無し。
 ```
@@ -113,7 +113,7 @@ node bin/wabun.js repl
 
 ### 閲覧場（ブラウザ）
 
-公開版がある。揃へずとも触れる：https://rtck-reina.github.io/wabun-lang/
+公開版がある。揃へずとも触れる：https://rtck-dev.github.io/wabun-lang/
 
 手元で動かす場合：
 
